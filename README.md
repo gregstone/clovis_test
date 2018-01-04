@@ -8,10 +8,9 @@ No time for :beer: let's go..
 
 ## Instructions
 
-The Clovis team wants to be able to quickly browse the projects of its customers thanks to a magnificent dashboard.
-Clovis backend developers have already created a REST API to retrieve project information.
+The Clovis team wants to be able to quickly browse the projects of its users thanks to a magnificent dashboard. (a clovis project is often a building under construction). Remember, our users are architects, designers, construction workers ;) 
 
-You can use what ever libs or tools you can, just do it, you have 30 minutes !
+Clovis backend developers have already created a REST API to retrieve project information.
 
 
 Here are the two routes of the API :
@@ -43,7 +42,7 @@ Here are the two routes of the API :
 
 Your mission is to create a SPA which display projects and their details when the user selects a project.
 
-You are free to make technical choices, UX and ergonomics!
+You are free to make technical choices (libs, tools), UX and ergonomics!
 
 
 ## Technical details
