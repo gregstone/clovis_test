@@ -11,7 +11,7 @@ No time for :beer: let's go..
 The Clovis team wants to be able to quickly browse the projects of its customers thanks to a magnificent dashboard.
 Clovis backend developers have already created a REST API to retrieve project information.
 
-You can use what ever libs or tools you can, just do it !
+You can use what ever libs or tools you can, just do it, you have 30 minutes !
 
 
 Here are the two routes of the API :
