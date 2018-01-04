@@ -11,6 +11,9 @@ No time for :beer: let's go..
 The Clovis team wants to be able to quickly browse the projects of its customers thanks to a magnificent dashboard.
 Clovis backend developers have already created a REST API to retrieve project information.
 
+You can use what ever libs or tools you can, just do it !
+
+
 Here are the two routes of the API :
 
 #### GET - Projects list
@@ -38,7 +41,7 @@ Here are the two routes of the API :
 }
 ```
 
-Votre mission, si vous l'acceptez, est de créer une SPA qui permet de lister les projets et de pouvoir regarder leurs détails quand on en sélectionne un.
+Your mission is to create a SPA which display projects and their details when the user selects a project.
 
 You are free to make technical choices, UX and ergonomics!
 
